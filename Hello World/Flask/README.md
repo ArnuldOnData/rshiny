@@ -37,6 +37,7 @@ First upgrade pip and then install Flask:
 `pip install flask`
 
 
+# Running the python program using Flask
 Now we are ready to run the program:
 
 `export FLASK_APP=hello.py`
@@ -49,12 +50,13 @@ This will print some text in terminal and then open a tab/window in your browser
 
 ![picture](https://i.postimg.cc/FKRN28w6/Screenshot-from-2020-10-16-23-21-37.png)
 
+If your browser doesn't open automatically then you can open it manually and just copy-paste the given address. 
 
+
+ More inforamtion:
 
  https://flask.palletsprojects.com/en/1.1.x/quickstart/
  
  https://docs.python.org/3/library/venv.html
 
 
-I highly recommend **iPython** interpreter. 
- Use your OS's package manager to install it.
