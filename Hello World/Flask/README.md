@@ -1,4 +1,4 @@
-Running a web-server program in Python requires a few steps:
+Creating a web-app program in Python requires a few steps:
  - Creating a virtual environment
  - Installing "Flask" in the virtual environment
  - Running the python program using Flask
