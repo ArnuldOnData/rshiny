@@ -8,6 +8,7 @@ So, you need to set browser option before you run this program. You can use Chro
 Then import Shiny library and run the program:
 
 `> library(shiny)`
+
 `> runApp("app.R")`
 
 
