@@ -5,12 +5,15 @@ So, you need to set browser option before you run this program. You can use Chro
 
 `options(browser="firefox")`
 
-Then import Shiny library and run the program:
+Then install Shiny (it will take a while), import it and run the program:
+
+`install.packages("shiny")`
 
 `> library(shiny)`
 
 `> runApp("app.R")`
 
+It will automatically open the browser and show you the "Hello World". 
 
 Get full info here:  https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
 
