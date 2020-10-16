@@ -7,10 +7,10 @@ Running a web-server "Hello World" program in Python requires a few steps:
  # Creating a virtual environment
  
  I don't like to pollute systemwide installation of Python. Unless there is a package I am gonna use everyday (**iPython** e.g.), for general day-to-day stuff, 
- I like to keep the systemwide Python untouched. When we want to play with a lot of stuff, we break and re-install lot of stuff and Virtual
+ I like to keep the systemwide Python untouched. When we want to play with a lot of stuff, we break and re-install lot of stuff and virtual
  environments are great for such kind of work. Sure it takes more space but it keeps your Python installation and your OS clean. 
  
- As of Python 3.5, **venv** is the recommended tool for creatin virtual environments. Open a terminal or X-terminal and do this:
+ As of Python 3.5, **venv** is the recommended tool for creatin virtual environments. These three tools are needed, you can install them using your package manager: Python, venv and pip. Then open a terminal or X-terminal and do this:
  
  `Python -m venv flask-hello`
  
@@ -25,6 +25,20 @@ Running a web-server "Hello World" program in Python requires a few steps:
 You can check to be sure you are running Python local to the virtual environment you just created:
 
 ![picture](https://i.postimg.cc/J73G8VG6/Screenshot-from-2020-10-16-22-51-39.png)
+
+
+
+
+# Installing Flask in virutal environment
+First upgrade pip and then install Flask:
+
+`pip install --upgrade pip`
+
+`pip install flask`
+
+
+Now we are ready to run the program:
+
 
 
  https://flask.palletsprojects.com/en/1.1.x/quickstart/
