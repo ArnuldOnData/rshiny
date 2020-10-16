@@ -39,6 +39,16 @@ First upgrade pip and then install Flask:
 
 Now we are ready to run the program:
 
+`export FLASK_APP=hello.py`
+
+`flask run`
+
+This will print some text in terminal and then open a tab/window in your browser immediately:
+
+![picture](https://i.postimg.cc/bwRvXQrZ/Screenshot-from-2020-10-16-23-20-06.png)
+
+![picture](https://i.postimg.cc/FKRN28w6/Screenshot-from-2020-10-16-23-21-37.png)
+
 
 
  https://flask.palletsprojects.com/en/1.1.x/quickstart/
