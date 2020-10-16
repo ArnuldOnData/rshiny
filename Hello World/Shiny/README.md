@@ -13,7 +13,9 @@ Then install Shiny (it will take a while), import it and run the program:
 
 `> runApp("app.R")`
 
-It will automatically open the browser and show you the "Hello World". 
+It will automatically open the browser and show you the "Hello World":
+
+![picture](https://i.postimg.cc/L4GDfSx9/Screenshot-from-2020-10-16-22-27-41.png)
 
 Get full info here:  https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
 
