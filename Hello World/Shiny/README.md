@@ -17,5 +17,5 @@ It will automatically open the browser and show you the "Hello World" like this:
 
 ![picture](https://i.postimg.cc/L4GDfSx9/Screenshot-from-2020-10-16-22-27-41.png)
 
-Get full info here:  https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
+To understand why we have used "ui" and "server", go to this offical docs page:  https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
 
