@@ -24,7 +24,7 @@ Running a web-server "Hello World" program in Python requires a few steps:
 
 You can check to be sure you are running Python local to the virtual environment you just created:
 
-![picture](https://i.postimg.cc/HLMhNtBM/Screenshot-from-2020-10-16-22-51-39.png)
+![picture](https://i.postimg.cc/J73G8VG6/Screenshot-from-2020-10-16-22-51-39.png)
 
 
  https://flask.palletsprojects.com/en/1.1.x/quickstart/
