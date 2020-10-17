@@ -1,10 +1,3 @@
-All the apps in the "Hello World" folder/directory were created to show how to start using the respective language/tool. 
-I created them to teach myself the fundamentals. I use Linux, hence instructions are applicable only for Linux.
-
-
-
-#How to get started 
-
 First, install **nodejs** using your package manager. Then open terminal and do this: 
 
 `npx create-react-app react-hello`  (this will take a while to finish)
