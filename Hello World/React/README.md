@@ -11,6 +11,8 @@ First, install **nodejs** using your package manager. Then open terminal and do 
 
 `cd react-hello`
 
+`npm start`
+
 It will start the web-server and a new browser window will open which will look like this:
 
 ![picture](https://i.postimg.cc/Sxq3hDtM/Screenshot-from-2020-10-17-18-25-02.png)
