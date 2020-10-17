@@ -20,7 +20,7 @@ Once you replace the default code with this, web-server will autoomatically refr
 
 ![picture](https://i.postimg.cc/G2tyDxBg/Screenshot-from-2020-10-17-17-57-04.png)
 
-
+And that is the same output we had using **Shiny** and **Flask** 
 
 
 More Info: https://create-react-app.dev/docs/getting-started/
