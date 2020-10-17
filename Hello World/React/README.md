@@ -25,4 +25,6 @@ And that is the same output we had using **Shiny** and **Flask**
 
 
 
-More Info: https://create-react-app.dev/docs/getting-started/
+## More Info:
+
+https://create-react-app.dev/docs/getting-started/
