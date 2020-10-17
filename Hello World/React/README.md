@@ -1,5 +1,5 @@
 All the apps in the "Hello World" folder/directory were created to show how to start using the respective language/tool. 
-I created them to teach myself these tools. I use Linux, hence instructions are applicable only for Linux.
+I created them to teach myself basics. I use Linux, hence instructions are applicable only for Linux.
 
 
 
