@@ -15,7 +15,7 @@ First, install **nodejs** using your package manager. Then open terminal and do 
 
 It will start the web-server and a new browser window will open which will look like this:
 
-![picture](https://i.postimg.cc/Sxq3hDtM/Screenshot-from-2020-10-17-18-25-02.png)
+![picture](https://i.postimg.cc/T1Jjqqjz/Screenshot-from-2020-10-17-18-25-02.png)
 
 Keep the both the server and broswer window open. Open **react-hello/src/App.js** in your text-editor.
 Now either you can manually edit the code or you can remove the entire contents of the file and then copy paste the code 
