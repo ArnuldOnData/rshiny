@@ -50,7 +50,7 @@ This will print some text in the terminal and then open a tab/window in your bro
 
 ![picture](https://i.postimg.cc/bwRvXQrZ/Screenshot-from-2020-10-16-23-20-06.png)
 
-![picture](https://i.postimg.cc/FKRN28w6/Screenshot-from-2020-10-16-23-21-37.png)
+![picture](https://i.postimg.cc/fLzdKk1d/Screenshot-from-2020-10-17-08-46-41.png)
 
 If your browser doesn't open automatically then you can open it manually and just copy-paste the given address. 
 
