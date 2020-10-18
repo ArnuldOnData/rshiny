@@ -21,9 +21,24 @@ You can see a slider on the left and a histogram on the right. You can change th
 ![picture](https://i.postimg.cc/PryyCvWL/Screenshot-from-2020-10-18-12-30-33.png)
 
 
+
+## How it works
+
+A **Shiny** app needs only one file *app.R* which needs to have 3 things:
+ - user interface part  - funcation called *ui* in *app.R*
+ - server part  - function called *server* in *app.R*
+ - a call to shinyApp() with *ui* and *server* passed as arguments.
+ 
+ *ui* function creates the slider and  receives the input whenever you change it.
+ *server* function takes input from *ui* and then creates a standard normal distribution 
+ with that value and then displays a histogram of that for you. 
+
+
 More Info:
 
 https://en.wikipedia.org/wiki/Normal_distribution
 
 https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
+
+https://cran.r-project.org/doc/manuals/r-release/R-lang.html
 
