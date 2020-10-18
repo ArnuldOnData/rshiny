@@ -18,5 +18,5 @@ Set a browser option:
 
 This is how it will look like:
 
-![picture](https://i.postimg.cc/25qkMvkg/Screenshot-from-2020-10-18-12-30-33.png)
+![picture](https://i.postimg.cc/PryyCvWL/Screenshot-from-2020-10-18-12-30-33.png)
 
