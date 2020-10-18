@@ -18,5 +18,5 @@ Set a browser option:
 
 This is how it will look like:
 
-![picture](<a href='https://postimg.cc/NycvrKrx' target='_blank'><img src='https://i.postimg.cc/NycvrKrx/Screenshot-from-2020-10-18-12-30-33.png' border='0' alt='Screenshot-from-2020-10-18-12-30-33'/></a>)
+![picture](https://i.postimg.cc/NycvrKrx/Screenshot-from-2020-10-18-12-30-33.png)
 
