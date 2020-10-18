@@ -36,7 +36,8 @@ You can verify that you are in a local Python environment:
 
 ![picture](https://i.postimg.cc/P5SCcc9x/Screenshot-from-2020-10-18-12-50-07.png)
 
-Then we will upgrade **pip** and install **wheel**, **Dash** and **Pandas**:
+If you are an advanced user of Python then you can use my *requirements.txt* to install everything. Otherwise, you can simply
+upgrade **pip** and install these 4 packages which will automatically pull all the required dependencies:
 
 `pip install --upgrade pip`
 
