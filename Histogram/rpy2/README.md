@@ -25,7 +25,7 @@ That is all you need. For complete details, see here:
 
 https://github.com/ArnuldOnData/rshiny/blob/main/Histogram/Dash/README.md
 
-As an alternative, you can use my *requirements.txt* too if you know how to use it. 
+As an alternative, you can use my *requirements.txt* too. 
 
 
 ## How to use 
