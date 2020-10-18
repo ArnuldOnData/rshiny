@@ -16,7 +16,7 @@ Set a browser option:
 
 `> runApp('app.R')`
 
-This is how it will look like:
+You can see a slider on the left and a histogram on the right. You can change the values using the slider which will dynamically change the histogram. This is how it will look like:
 
 ![picture](https://i.postimg.cc/PryyCvWL/Screenshot-from-2020-10-18-12-30-33.png)
 
