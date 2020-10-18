@@ -20,3 +20,10 @@ You can see a slider on the left and a histogram on the right. You can change th
 
 ![picture](https://i.postimg.cc/PryyCvWL/Screenshot-from-2020-10-18-12-30-33.png)
 
+
+More Info:
+
+https://en.wikipedia.org/wiki/Normal_distribution
+
+https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
+
