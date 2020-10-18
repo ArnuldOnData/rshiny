@@ -36,9 +36,11 @@ A **Shiny** app needs only one file *app.R* which needs to have 3 things:
 
 More Info:
 
-https://en.wikipedia.org/wiki/Normal_distribution
-
 https://shiny.rstudio.com/tutorial/written-tutorial/lesson1/
+
+https://www.r-bloggers.com/2013/02/normal-distribution-functions/
+
+https://en.wikipedia.org/wiki/Normal_distribution
 
 https://cran.r-project.org/doc/manuals/r-release/R-lang.html
 
