@@ -1,4 +1,4 @@
-Here we are using the "parallel" package which is available in the core (or base ) of the R language. These days we have multi-CPU machines
+Here we are using the "parallel" package which is available in the *base* package  of the R language. These days we have multi-CPU machines
 available for cheap even for home desktop systems. So we will use a multi-cpu (one phsycial CPU with multiple cores). We will compare one serial
 version and two parallel computing versions of R and measure the time difference.
 
