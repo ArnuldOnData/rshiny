@@ -23,6 +23,16 @@ You could go on writing code for years doing similar mistakes if you don't have 
 Please check each folder's respective README.md file for instructions. 
 
 
+# Learning #2
+
+After I spent initial 3 days in learnings #0 and #1  , It took me only a couple of hours to start understanding *rpy2* package. I wrote all the Python code using *rpy2* in about half a day. So total 3.5 days so far.
+
+
+# Learning #3
+
+It took about another half a day to start understanding parallel computing. I used *Parallel* from R's *base* package and measured the time difference of serial and parallel versions of a program. This completes totoal 4 days of time limit I put on myself.
+
+
 For more info:
 
 https://reactjs.org/
@@ -36,3 +46,5 @@ https://nodejs.org/en/
 https://en.wikipedia.org/wiki/Npm_(software)
 
 https://flask.palletsprojects.com/en/1.1.x/
+
+https://cran.r-project.org/web/views/HighPerformanceComputing.html
