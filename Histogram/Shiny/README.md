@@ -29,7 +29,7 @@ A **Shiny** app needs only one file *app.R* which needs to have 3 things:
  - server part  - function called *server* in *app.R*
  - a call to shinyApp() with *ui* and *server* passed as arguments.
  
- *ui* function creates the slider and  receives the input whenever you change it.
+ *ui* function creates the slider and  sends the data whenever you change it.
  *server* function takes input from *ui* and then creates a standard normal distribution 
  with that value and then displays a histogram of that for you. 
 
