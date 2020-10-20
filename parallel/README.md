@@ -29,7 +29,7 @@ process lifetimes overlapping, but execution need not happen at the same instant
 partial order, without affecting the final outcome. The goal here is to model processes in the outside world that happen concurrently, such as 
 multiple clients accessing a server at the same time.
 
-Currently, there is not code of *Parallel* with *Shiny* in this repo. Reason is,  reactive values of Shiny require reactive context which is a bit tricky to manage using all the nodes in the cluster created using *Parallel* and this requires more than 4 days of expertise in both.   
+Currently, there is not code of *Parallel* with *Shiny* in this repo. Reason is,  reactive values of Shiny require reactive context which is a bit tricky to manage using all the nodes in the cluster created using *Parallel* and this requires more than 4 days of expertise in all three: *R*, *Parallel* and *Shiny*.   
 
 
 ####  Definitions are from Wikipedia. See here:
