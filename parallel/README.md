@@ -31,7 +31,7 @@ multiple clients accessing a server at the same time.
 
 
 
-###  Definitions are from Wikipedia. See here:
+####  Definitions are from Wikipedia. See here:
 
 https://en.wikipedia.org/wiki/Parallel_computing
 
