@@ -25,7 +25,7 @@ You can see a slider on the left and a histogram on the right. You can change th
 ## How it works
 
 A **Shiny** app needs only one file *app.R* which needs to have 3 things:
- - user interface part  - funcation called *ui* in *app.R*
+ - user interface part  - function called *ui* in *app.R*
  - server part  - function called *server* in *app.R*
  - a call to shinyApp() with *ui* and *server* passed as arguments.
  
