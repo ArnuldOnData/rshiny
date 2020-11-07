@@ -15,9 +15,9 @@ Until 4 days ago I didn't even know there was something called **yarn** or **npx
 
 It took 2 days for me to get familiar with how **Shiny** works, how **React** integrates within R using **reactR**, how we can start using **npm** and run a server, how we can use **Flask**  to run web-server and how to create different sliders in **Dash** and **Shiny**.
 
-These 2 days were frustrating because I did find the documentation but could not find much information if how to build similar stuff using 2 different sets of tools. I am sure any computer programmer might get frustrated the same. So I decided to create a couple of small programs to show you how you can learn this quickly without much frustration, how all the pieces fit together. Think of it as a step by step tutorial to start building things with unfamiliar tools in an unfamiliar field. 
+These 2 days were frustrating because I did find the documentation but could not find much information on how to build similar stuff using 2 different sets of tools. I am sure any computer programmer might get frustrated the same. So I decided to create a couple of small programs to show you how you can learn this quickly with lesser amount of frustration, how all the pieces fit together. Think of it as a step by step tutorial to start building things with unfamiliar tools in an unfamiliar field. 
 
-You can start with a *Hello World* folder, see how each of the apps/programs works producing the same output with different tools. 
+You can start with a *Hello World* folder, see how each of the app/program works producing the same output with different tools. 
 Then we move onto bit more complex programs, step by step. We will take it slow, and we will take it easy because fundamentals are important.
 You could go on writing code for years doing similar mistakes if you don't have a good grip around fundamentals and it doesn't take much time :-) 
 Please check each folder's respective README.md file for instructions. 
