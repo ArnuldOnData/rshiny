@@ -30,7 +30,7 @@ After I spent initial 3 days in learnings #0 and #1  , It took me only a couple 
 
 # Learning #3
 
-It took about another half a day to start understanding parallel computing. I used *Parallel* from R's *base* package and measured the time difference of serial and parallel versions of a program. This completes totoal 4 days of time limit I put on myself.
+It took about another half a day to start understanding parallel computing. I used *Parallel* from R's *base* package and measured the time difference of serial and parallel versions of a program. This completes total 4 days of time limit I put on myself.
 
 
 For more info:
